@@ -1,0 +1,72 @@
+/*-----------------------------------------------------*/
+h1{
+    font-family: 'Teko', sans-serif;
+    text-shadow: 8px 5px 4px gray;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 8px 0 0;
+}
+h2 {
+    font-family: 'Teko', sans-serif;
+    text-shadow: 8px 5px 4px gray;
+} 
+p{
+    font-family: 'Raleway', sans-serif;
+}
+img{
+    border-radius: 16px;
+}
+body{
+    background: linear-gradient(to right, #182442, #62759e);
+}
+footer{
+    text-align: center;
+}
+
+/*-----------------------------------------------------*/
+@font-face {
+    font-family: teko;
+    src: url(Teko/Teko-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Raleway;
+    src: url(Raleway/Raleway-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: Error;
+    src: url(ErrorFont/FONTE___.TTF);
+}
+/*----------------------------------------------------*/
+
+#font1{
+    font-family: 'Roboto', sans-serif;
+
+}
+#font2{
+    margin-bottom: 10px;
+
+}
+
+/*-----------------------------------------------------*/
+
+.header {
+    display: flex;
+    justify-content: center; /* Alinhamento horizontal */
+    align-items: center; /* Alinhamento vertical */
+    width: 100%;
+    height: auto;
+    padding-bottom: 25px;
+    margin: 0;
+  }
+  .div2{
+    background-color: #abb2ca;
+    width: 80%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 1px 20px;
+}  
