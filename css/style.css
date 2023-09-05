@@ -52,18 +52,14 @@ footer{
 
 /*-----------------------------------------------------*/
 
-.container {
-  position: relative;
-}
-
-.container .image {
-  display: block;
-  width: 100%;
-}
-
-.container .text {
-  position: absolute;
-  z-index: 1;
+.header {
+    display: flex;
+    justify-content: center; /* Alinhamento horizontal */
+    align-items: center; /* Alinhamento vertical */
+    width: 100%;
+    height: auto;
+    padding-bottom: 2%;
+    margin: 0%;
 }
   .div2{
     background-color: #abb2ca;
