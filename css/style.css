@@ -59,14 +59,14 @@ footer{
     align-items: center; /* Alinhamento vertical */
     width: 100%;
     height: auto;
-    padding-bottom: 25px;
-    margin: 0;
+    padding-bottom: 2%;
+    margin: 0%;
   }
   .div2{
     background-color: #abb2ca;
     width: 80%;
     border-radius: 10px;
     margin: auto;
-    margin-top: 20px;
-    padding: 1px 20px;
+    margin-top: 10%;
+    padding: 1px 10%;
 }  
