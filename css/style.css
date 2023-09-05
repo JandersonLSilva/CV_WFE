@@ -22,7 +22,10 @@ body{
 footer{
     text-align: center;
 }
-
+header{
+    padding-bottom: 25px;
+    margin 0px;
+}
 /*-----------------------------------------------------*/
 @font-face {
     font-family: teko;
@@ -71,6 +74,6 @@ footer{
     width: 80%;
     border-radius: 10px;
     margin: auto;
-    margin-top: 25px;
-    padding: 1px 25px;
+    margin-top: 20px;
+    padding: 1px 20px;
 }  
